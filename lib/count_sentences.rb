@@ -1,9 +1,11 @@
 require 'pry'
 
+end
+
 class String
 
   def sentence?
-    
+
   end
 
   def question?
